@@ -1,0 +1,140 @@
+
+body{
+  margin: 0px 0px 0px 0px;
+  height: 100%;
+  background: #bfbfbf;
+}
+.wordss h2{
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  margin-left: 20px;
+  width:100px;
+  padding: 10px;
+  background: #dbdbdb;
+  border-radius: 15px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  margin-left: 10px;
+  
+}
+#words{
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  font-size: 50px;
+  padding: 0px;
+  margin-top: 0px;
+  font-weight: 1000;
+  
+}
+
+
+.tabbox table, .tabbox th, .tabbox td{
+  
+  margin-left: 100px;
+  border:10px none;
+  padding: 10px;
+  border-collapse: collapse;
+  font-family: Gill Sans, sans-serif;
+}
+
+.wordss{
+  margin-left: 200px;
+}
+.tabbox table li{
+  padding-right: 20px;
+  padding: 2px;
+  font-family: Gill Sans, sans-serif;
+}
+.section{
+  background: #e6e6e6;
+  margin-right:250px;
+  margin-top:20px;
+  padding: 10px 10px 30px 10px;
+  border-radius: 25px 25px;
+  margin-bottom: 30px;
+}
+.tabbox th, .tabbox td { 
+  padding: 10px;
+  background: #dbdbdb;
+  border-radius: 25px;
+}
+
+.tabbox table { 
+  border-spacing: 0;
+  border: 0;
+  margin:0px;
+  width:100%;
+  padding:10px;
+}
+.php{
+  border: none;
+  background: #a3a3a3;
+  font-family: 'arial';
+  color: #545454;
+  font-size: 24px;
+  text-align: center;
+}
+.stock{
+  width: 100%;
+  min-height: 400px;
+  display: flex;
+  
+}
+.space{
+  min-height: 10px;
+  background-color: #a3a3a3;
+}
+.info{
+  height:100%;
+  width:70%;
+}
+.pic1{
+  width:30%;
+  background-image: url(pictures/laptop.jpg);
+  background-size: 110%;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.pic2{
+  width:30%;
+  background-image: url(pictures/gamingpc.jpg);
+  background-size: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  
+}.pic3{
+  width:30%;
+  background-image: url(pictures/motherboard.jpg);
+  background-size: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+}.pic4{
+  width:30%;
+  background-image: url(pictures/rtx.png);
+  background-size: 110%;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.info p{
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #4f4f4f;
+  font-family: 'arial';
+  font-size: 30px;
+}
+.info h2{
+  padding-left: 20px;
+  color: #4f4f4f;
+  font-family: 'arial';
+  font-size: 40px;
+
+}
+.php h1{
+  margin-top:0;
+}
+.php td{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.php table{
+  margin: 0 auto;
+  padding: 10px;
+}
